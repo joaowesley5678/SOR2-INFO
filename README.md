@@ -1,2 +1,2 @@
-# SOR2-INFO a
+# SOR2-INFO
 
